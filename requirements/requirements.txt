@@ -3,7 +3,7 @@ gTTS>=2.2.2,<2.3.0
 PyAudio==0.2.11
 pyee==8.1.0
 SpeechRecognition==3.8.1
-tornado~=6.1
+tornado~=6.4.2
 websocket-client~=1.2.1
 requests-futures==0.9.5
 pyserial==3.0
